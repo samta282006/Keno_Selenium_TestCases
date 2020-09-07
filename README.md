@@ -5,6 +5,7 @@ A few test scenarios on Keno website using Selenium WebDriver and Java. Uses Pag
 Dependencies:
 
 Java 14.0.2
+
 Selenium v3.1.4
 
 ------------------------
@@ -12,8 +13,11 @@ Selenium v3.1.4
 #Keno Test cases Import Process
 
 File > Import
+
 Select Existing Projects into Workspace and click Next
+
 select the radio option Select archive file, and click the Browse button to locate the zip file
+
 Click Finish
 
 ------------------------
